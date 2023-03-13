@@ -1,0 +1,11 @@
+.card-img-top{
+    font-weight: 800px;
+    height: 600px;
+    padding-left: 560px ;
+}
+
+.card-body{
+    flex-direction: column;
+    display: contents;
+    
+}
